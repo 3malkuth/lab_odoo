@@ -1,7 +1,9 @@
 #local dev env
 odoo_pg_pass
 
-# odoo 18 avoid committing to your repo
+odoo19/
+
+# avoid committing to your repo
 .github/
 .tx/
 addons/
