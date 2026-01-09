@@ -6,10 +6,10 @@
 
 ## Setup development environment
 
-### Setup of odoo 18 on ubuntu 24.04 LTS
+### Setup of odoo 19 on ubuntu 24.04 LTS
 * Clone the odoo repo
 ```
-git clone https://www.github.com/odoo/odoo --depth 1 --branch 18.0 --single-branch odoo18
+git clone https://www.github.com/odoo/odoo --depth 1 --branch 19.0 --single-branch odoo19
 ```
 * You should be able to simply copy the contents of the odoo repo into this repo's directory
 
